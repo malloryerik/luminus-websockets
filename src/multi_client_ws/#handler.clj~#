@@ -1,0 +1,6 @@
+-*- mode: grep; default-directory: "~/Dev/Clojure/luminus/multi-client-ws/src/multi_client_ws/" -*-
+Grep started at Wed Nov  4 12:34:43
+
+find . -type f -exec grep -nH -e  {} +
+
+Grep finished with no matches found at Wed Nov  4 12:34:43
