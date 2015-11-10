@@ -1,6 +1,6 @@
 # multi-client-ws
 
-FIXME
+This is just a tutorial from the Clojure full-stack framework Luminus, with some of my own bits thrown in, esp notes and a few Reagent/React components in various versions of this app's history. 
 
 ## Prerequisites
 
